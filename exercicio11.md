@@ -18,3 +18,5 @@
 - Uso do módulo `random` para gerar números aleatórios.
 - Loops `while` para repetição condicional.
 - Lógica de jogos interativos.
+
+.
