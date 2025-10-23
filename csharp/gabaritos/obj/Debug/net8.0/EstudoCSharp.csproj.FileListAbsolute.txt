@@ -1,0 +1,5 @@
+D:\Projetos\Estudo\Estudo\csharp\gabaritos\obj\Debug\net8.0\EstudoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Estudo\Estudo\csharp\gabaritos\obj\Debug\net8.0\EstudoCSharp.AssemblyInfoInputs.cache
+D:\Projetos\Estudo\Estudo\csharp\gabaritos\obj\Debug\net8.0\EstudoCSharp.AssemblyInfo.cs
+D:\Projetos\Estudo\Estudo\csharp\gabaritos\obj\Debug\net8.0\EstudoCSharp.csproj.CoreCompileInputs.cache
+D:\Projetos\Estudo\Estudo\csharp\gabaritos\obj\Debug\net8.0\EstudoCSharp.sourcelink.json
