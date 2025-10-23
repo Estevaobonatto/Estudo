@@ -1,10 +1,10 @@
 # Exercícios de Python
 
-Este repositório contém uma série de exercícios simples para aprender a linguagem Python, com foco em lógica de programação e estruturas de dados.
+Este repositório contém uma série de exercícios progressivos para aprender a linguagem Python, com foco em lógica de programação, estruturas de dados, algoritmos e programação orientada a objetos.
 
 ## Estrutura do Projeto
 
-- `exercicio1.md` até `exercicio11.md`: Arquivos Markdown com a descrição detalhada de cada exercício, incluindo objetivo, instruções e dicas.
+- `exercicio1.md` até `exercicio40.md`: Arquivos Markdown com a descrição detalhada de cada exercício, incluindo objetivo, instruções e dicas.
 - `gabaritos/`: Diretório contendo os gabaritos (soluções corretas) em arquivos Python (.py) para cada exercício.
 
 ## Como Usar
@@ -17,6 +17,7 @@ Este repositório contém uma série de exercícios simples para aprender a ling
 
 ## Exercícios Disponíveis
 
+### Básicos (1-11)
 1. **Olá, Mundo!**: Introdução à função `print()`.
 2. **Soma de Dois Números**: Entrada de dados e operações aritméticas.
 3. **Par ou Ímpar**: Estruturas condicionais.
@@ -29,11 +30,44 @@ Este repositório contém uma série de exercícios simples para aprender a ling
 10. **Média de uma Lista**: Cálculos com listas.
 11. **Jogo da Adivinhação**: Interação e números aleatórios.
 
+### Intermediários (12-23)
+12. **Sequência de Fibonacci**: Geração de sequências matemáticas.
+13. **Palíndromo**: Verificação de strings.
+14. **Contar Vogais**: Iteração e condições.
+15. **Máximo Divisor Comum (MDC)**: Algoritmo de Euclides.
+16. **Busca Binária**: Algoritmos de busca eficientes.
+17. **Classe Retângulo**: Introdução à OOP.
+18. **Soma Recursiva**: Recursão em listas.
+19. **Inverter Lista Recursivamente**: Recursão avançada.
+20. **Contar em Lista Aninhada**: Estruturas complexas.
+21. **Ler e Escrever Arquivo**: Manipulação de arquivos.
+22. **Tratamento de Exceções**: Robustez de código.
+23. **Pilha Simples**: Estruturas de dados.
+
+### Avançados (24-40)
+24. **Fila Simples**: Estruturas de dados lineares.
+25. **Merge Sort**: Algoritmos de ordenação eficientes.
+26. **Comparar Buscas**: Análise de performance.
+27. **Cálculos com Math**: Biblioteca padrão.
+28. **Validação de Email com Regex**: Expressões regulares.
+29. **Funções Lambda e Map**: Programação funcional.
+30. **Calculadora Simples**: Funções e menus.
+31. **Jogo da Forca**: Lógica de jogos.
+32. **Leitura de CSV**: Processamento de dados.
+33. **Fatorial com Memoização**: Otimização recursiva.
+34. **Crivo de Eratóstenes**: Geração de primos.
+35. **Ordenação por Inserção**: Algoritmos O(n²).
+36. **Filter e Reduce**: Funções funcionais.
+37. **Classe Conta Bancária**: OOP avançada.
+38. **Simulação de Dados**: Probabilidade e random.
+39. **Pedra-Papel-Tesoura**: Jogos interativos.
+40. **Calculadora Avançada**: Interfaces textuais.
+
 ## Dicas Gerais
 
-- Comece pelos exercícios mais simples e avance gradualmente.
-- Pratique a leitura de código e a depuração.
-- Experimente modificar os exemplos para entender melhor.
-- Consulte a documentação oficial do Python quando necessário.
+- Comece pelos exercícios mais simples e avance gradualmente, aumentando a dificuldade a cada 3 exercícios.
+- Pratique a leitura de código, depuração e refatoração.
+- Experimente modificar os exemplos para aprofundar o entendimento.
+- Consulte a documentação oficial do Python e fontes como "Introduction to Algorithms" para conceitos avançados.
 
-Boa sorte nos seus estudos de Python! Se tiver dúvidas, revise os conceitos básicos e pratique mais.
+Boa sorte nos seus estudos de Python! Mantenha a consistência e reflita sobre cada solução. Se tiver dúvidas, revise os fundamentos e pratique mais.
